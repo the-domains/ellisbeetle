@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ellisbeetle]]></title>
+        <description><![CDATA[Ellisbeetle]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Dec 2015 21:52:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ellisbeetle Entertainment]]></title>
+            <description><![CDATA[<article><h1>Ellisbeetle Entertainment</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6df8ac7fa218030a795c2416ae7f7dbb3fece2ae.jpg"></article>]]></description>
+            <link>http://ellisbeetle.com/</link>
+            <guid isPermaLink="false">8084b0a9-4186-4cdd-a981-dd6a074438dc</guid>
+            <pubDate>Wed, 09 Dec 2015 21:52:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
