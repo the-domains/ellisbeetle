@@ -1,7 +1,7 @@
 name: Ellisbeetle
 favicon: null
-layout_spectrum: 0.7729846693109721
-typography_spectrum: 0.92659
+layout_spectrum: 0.74851
+typography_spectrum: 0.92788
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ededdc'
-    - '#000000'
-    - '#252018'
-    - '#5e5b52'
-    - '#9f9c90'
+    - '#000105'
+    - '#e4e0e1'
+    - '#00447f'
+    - '#cd0000'
+    - '#fe7500'
   brandStrength: 0.33094432298094034
-  lightness: 0.38119369628839195
-  saturation: 0.39093290152959526
-  rhythmicContrast: 0.5733864977955818
+  lightness: 0.4375
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
