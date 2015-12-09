@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ellisbeetle]]></title>
         <description><![CDATA[Ellisbeetle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ellisbeetle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 21:52:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 21:53:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ellisbeetle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ellisbeetle Entertainment]]></title>
             <description><![CDATA[<article><h1>Ellisbeetle Entertainment</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6df8ac7fa218030a795c2416ae7f7dbb3fece2ae.jpg"></article>]]></description>
             <link>http://ellisbeetle.com/</link>
             <guid isPermaLink="false">8084b0a9-4186-4cdd-a981-dd6a074438dc</guid>
-            <pubDate>Wed, 09 Dec 2015 21:52:04 GMT</pubDate>
+            <pubDate>Wed, 09 Dec 2015 21:53:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
