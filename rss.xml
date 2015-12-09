@@ -4,7 +4,7 @@
         <description><![CDATA[Ellisbeetle]]></description>
         <link>https://thegrid.ai/ellisbeetle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 21:35:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Dec 2015 21:36:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ellisbeetle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[LOGO]]></title>
@@ -12,13 +12,6 @@
             <link>http://ellisbeetle.com/</link>
             <guid isPermaLink="false">8084b0a9-4186-4cdd-a981-dd6a074438dc</guid>
             <pubDate>Wed, 09 Dec 2015 21:35:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ellisbeetle is in thegrid]]></title>
-            <description><![CDATA[<article><h1>Ellisbeetle is in thegrid</h1><p>Hello World!</p></article>]]></description>
-            <link>https://thegrid.ai/ellisbeetle/ellisbeetle-is-in-thegrid/index.html</link>
-            <guid isPermaLink="false">ac2a87b3-82db-45e8-8595-39356d5fd273</guid>
-            <pubDate>Wed, 09 Dec 2015 20:54:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
