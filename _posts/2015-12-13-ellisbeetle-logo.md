@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Main Logo
-datePublished: '2015-12-13T00:28:43.677Z'
-dateModified: '2015-12-13T00:28:36.808Z'
+datePublished: '2015-12-13T00:32:48.258Z'
+dateModified: '2015-12-13T00:32:44.814Z'
 author: []
 title: Ellisbeetle Logo
 sourcePath: _posts/2015-12-13-ellisbeetle-logo.md
