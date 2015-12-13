@@ -6,21 +6,21 @@ inLanguage: null
 starred: false
 keywords: []
 description: Main Logo
-datePublished: '2015-12-13T00:25:24.396Z'
-dateModified: '2015-12-13T00:24:51.341Z'
+datePublished: '2015-12-13T00:28:43.677Z'
+dateModified: '2015-12-13T00:28:36.808Z'
 author: []
 title: Ellisbeetle Logo
+sourcePath: _posts/2015-12-13-ellisbeetle-logo.md
+published: true
 authors: []
 publisher:
   name: ellisbeetle.com
   domain: ellisbeetle.com
   url: null
   favicon: null
-sourcePath: _posts/2015-12-13-ellisbeetle-logo.md
-published: true
 url: ellisbeetle-logo/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-Logo Test ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b190d2c5a8c7a42d1c8491b19c978665efdaa27.png)
+Logo Test ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c11cffa353a961c8f5d1057d840492017f59db6.png)
