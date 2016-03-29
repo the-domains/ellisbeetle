@@ -4,21 +4,21 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-12-09T22:45:43.642Z'
-dateModified: '2015-12-09T20:51:51.621Z'
+description: 'Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. '
+datePublished: '2016-03-29T16:46:17.919Z'
+dateModified: '2016-03-29T16:44:39.230Z'
 title: Getting Started on The Grid
 author: []
+sourcePath: _posts/2015-12-09-getting-started-on-the-grid.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-09-getting-started-on-the-grid.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
