@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Ellisbeetle Entertianment was founded by Sam Cosby in 2008. In addition to it's international distribution system for it's products the company's activities also include Terindo Books, the literary publishing component for The CERULADONS and The Cerukins; Nahala Music, composition and music recording (various styles); Literature Aloud LLC\_(subsidiary)\_, audiobook and voice over recording; Metal and Wood LLC\_(subsidiary)\_, live event management; 54 Finch, Music Publishing."
-datePublished: '2016-03-29T19:10:10.896Z'
-dateModified: '2016-03-29T18:42:38.886Z'
+datePublished: '2016-03-29T21:02:38.460Z'
+dateModified: '2016-03-29T21:02:28.065Z'
 title: Divisions and Subsidiaries
 author: []
 sourcePath: _posts/2016-03-29-divisions-and-subsidiaries.md
