@@ -1,6 +1,6 @@
 name: Ellisbeetle Entertainment LLC
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.24804
 typography_spectrum: 1
 title: Ellisbeetle Entertainment LLC
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#231f20'
-    - '#b6bc50'
-    - '#e06033'
-    - '#15b8d9'
+    - '#322918'
+    - '#b0bfac'
+    - '#92899a'
+    - '#c08d4e'
+    - '#875f24'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.625
