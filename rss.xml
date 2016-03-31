@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Ellisbeetle Entertainment LLC]]></title>
         <description><![CDATA[Ellisbeetle Entertainment LLC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ellisbeetle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 20:28:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 20:31:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ellisbeetle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/ellisbeetle/95439daa-c337-4e19-974e-3ba68de2e6e2/index.html</link>
+            <guid isPermaLink="false">95439daa-c337-4e19-974e-3ba68de2e6e2</guid>
+            <pubDate>Thu, 31 Mar 2016 20:31:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Store 2</p>]]></description>
-            <link>undefined928dce78-1e55-4938-affc-a18c4ef03486/index.html</link>
+            <link>https://thegrid.ai/ellisbeetle/928dce78-1e55-4938-affc-a18c4ef03486/index.html</link>
             <guid isPermaLink="false">928dce78-1e55-4938-affc-a18c4ef03486</guid>
             <pubDate>Thu, 31 Mar 2016 20:28:05 GMT</pubDate>
         </item>
