@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Michelle\_acting core design fundamentals also focuses on the right elements within the right contexts to improve every possible content narrative. Design systems marry the two, which also means that feedback and progress is more focused, more efficient and effective. It allows for"
-datePublished: '2016-03-31T19:28:11.630Z'
-dateModified: '2016-03-31T19:27:39.090Z'
+datePublished: '2016-03-31T19:29:40.922Z'
+dateModified: '2016-03-31T19:28:20.103Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-31-michelle-acting-core-design-fundamentals-also-focuses-on-the.md
