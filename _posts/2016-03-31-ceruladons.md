@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Ceruladons
-datePublished: '2016-03-31T20:17:50.348Z'
-dateModified: '2016-03-31T20:10:37.782Z'
+description: ''
+datePublished: '2016-03-31T20:19:18.307Z'
+dateModified: '2016-03-31T20:17:59.808Z'
 title: Projects
 author: []
 sourcePath: _posts/2016-03-31-ceruladons.md
