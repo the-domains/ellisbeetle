@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ellisbeetle Entertainment LLC]]></title>
         <description><![CDATA[Ellisbeetle Entertainment LLC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ellisbeetle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 16:52:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 16:52:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ellisbeetle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69270a18-3205-40e1-b36f-6bd7c12a1bfc.png">]]></description>
-            <link>undefined49154840-1d53-42ff-b4a9-97dac4caf7f6/index.html</link>
+            <link>https://thegrid.ai/ellisbeetle/49154840-1d53-42ff-b4a9-97dac4caf7f6/index.html</link>
             <guid isPermaLink="false">49154840-1d53-42ff-b4a9-97dac4caf7f6</guid>
-            <pubDate>Thu, 31 Mar 2016 16:51:36 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2016 16:52:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
