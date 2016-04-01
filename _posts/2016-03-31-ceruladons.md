@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: Projects
-datePublished: '2016-04-01T23:52:40.895Z'
-dateModified: '2016-04-01T23:42:08.777Z'
+description: Inventory
+datePublished: '2016-04-01T23:55:30.570Z'
+dateModified: '2016-04-01T23:53:21.724Z'
 title: Inventory Artist
 author: []
 sourcePath: _posts/2016-03-31-ceruladons.md
