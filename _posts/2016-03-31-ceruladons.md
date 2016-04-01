@@ -3,12 +3,12 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-31T20:19:18.307Z'
-dateModified: '2016-03-31T20:17:59.808Z'
-title: Projects
+description: Projects
+datePublished: '2016-04-01T23:52:40.895Z'
+dateModified: '2016-04-01T23:42:08.777Z'
+title: Inventory Artist
 author: []
 sourcePath: _posts/2016-03-31-ceruladons.md
 published: true
@@ -22,4 +22,6 @@ url: ceruladons/index.html
 _type: WebPage
 
 ---
-Projects
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e91e114-e363-467a-a205-b9c6350730d0.jpg)
+
+Inventory
