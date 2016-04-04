@@ -4,7 +4,7 @@
         <description><![CDATA[ellisbeetle.com]]></description>
         <link>https://thegrid.ai/ellisbeetle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 19:57:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 20:02:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ellisbeetle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,9 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8624cbac-6ecd-4623-8070-24706663ed99.jpg">]]></description>
             <link>https://thegrid.ai/ellisbeetle/cb5a6d04-879e-449a-ba09-f4d031252175/index.html</link>
             <guid isPermaLink="false">cb5a6d04-879e-449a-ba09-f4d031252175</guid>
-            <pubDate>Mon, 04 Apr 2016 19:57:29 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2016 20:02:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
