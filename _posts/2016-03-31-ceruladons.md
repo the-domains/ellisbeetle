@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Inventory
-datePublished: '2016-04-01T23:55:30.570Z'
-dateModified: '2016-04-01T23:53:21.724Z'
+datePublished: '2016-04-04T16:45:32.086Z'
+dateModified: '2016-04-04T16:45:25.824Z'
 title: Inventory Artist
 author: []
 sourcePath: _posts/2016-03-31-ceruladons.md
