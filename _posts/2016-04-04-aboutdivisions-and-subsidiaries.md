@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Ellisbeetle Entertainment was\nfounded by Sam Cosby in 2008. In addition to it's international distribution\nsystem for it's products.\_"
-datePublished: '2016-04-05T16:41:19.858Z'
-dateModified: '2016-04-05T16:41:09.388Z'
+datePublished: '2016-04-05T16:46:44.335Z'
+dateModified: '2016-04-05T16:46:41.318Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-04-aboutdivisions-and-subsidiaries.md
@@ -33,9 +33,9 @@ the literary publishing component for The CERULADONS and The Cerukins;Nahala Mus
 LLC (subsidiary),
 audiobook and voice over recording; Metal and Wood LLC (subsidiary),
 live event management; 54 Finch, Music Publishing.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/46763f0d59c6139a04546c6a0901d6dc2a14a0c5.png)
 
 Terindo Books | Literary Publishing
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1474ff3b-466f-448c-b9d9-4b05f73e4ece.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d202d2d6593c23c530ff6893ea99040fd2e2342f.png)
 
 Nahala Music | Music composition and music recording.
