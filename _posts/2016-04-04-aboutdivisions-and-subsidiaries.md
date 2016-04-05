@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-05T16:00:19.133Z'
-dateModified: '2016-04-05T16:00:13.118Z'
+datePublished: '2016-04-05T16:01:29.694Z'
+dateModified: '2016-04-05T16:01:23.274Z'
 title: About/Divisions and Subsidiaries
 author: []
 sourcePath: _posts/2016-04-04-aboutdivisions-and-subsidiaries.md
@@ -34,9 +34,9 @@ the literary publishing component for The CERULADONS and The Cerukins;Nahala Mus
 LLC (subsidiary),
 audiobook and voice over recording; Metal and Wood LLC (subsidiary),
 live event management; 54 Finch, Music Publishing.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b76d4a48-62b9-47b9-9cc5-ac95e078021d.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/46763f0d59c6139a04546c6a0901d6dc2a14a0c5.png)
 
 Terindo Books | Literary Publishing
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2048f62c-ee7c-4d81-a090-0e2c29236a77.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d202d2d6593c23c530ff6893ea99040fd2e2342f.png)
 
 .Nahala Music | Music composition and music recording.
