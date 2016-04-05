@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Ellisbeetle Entertainment was\nfounded by Sam Cosby in 2008. In addition to it's international distribution\nsystem for it's products.\_"
-datePublished: '2016-04-05T18:48:06.783Z'
-dateModified: '2016-04-05T18:48:03.904Z'
+datePublished: '2016-04-05T19:05:37.759Z'
+dateModified: '2016-04-05T19:05:34.869Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-04-aboutdivisions-and-subsidiaries.md
@@ -28,17 +28,15 @@ Ellisbeetle Entertainment was
 founded by Sam Cosby in 2008\. In addition to it's international distribution
 system for it's products. 
 
-Terindo Books,
-the literary publishing component for The CERULADONS and The Cerukins;Nahala Music, composition and music recording (various styles); Literature Aloud
+Nahala Music, composition and music recording (various styles); Literature Aloud
 LLC (subsidiary),
 audiobook and voice over recording; Metal and Wood LLC (subsidiary),
 live event management; 54 Finch, Music Publishing.
-
-**Terindo Books | Literary Publishing | S****ubsidiary**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5263d6a2-7d3e-4c8e-99db-0a5fcfe53e54.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d14e06d4-ab2d-41ad-a366-5ad3ee365f57.png)
 
 ****
 
-Nahala Music | Music composition and music recording.
+****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0916edc-653b-4854-9c3a-69630f7f5c9c.png)
 
 Literature Aloud LLC (subsidiary), Audiobook and Voice Over Recording.
