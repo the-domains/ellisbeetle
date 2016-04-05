@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Ellisbeetle Entertainment was\nfounded by Sam Cosby in 2008. In addition to it's international distribution\nsystem for it's products.\_"
-datePublished: '2016-04-05T16:15:22.358Z'
-dateModified: '2016-04-05T16:15:18.213Z'
+datePublished: '2016-04-05T16:41:19.858Z'
+dateModified: '2016-04-05T16:41:09.388Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-04-aboutdivisions-and-subsidiaries.md
@@ -22,7 +22,7 @@ url: aboutdivisions-and-subsidiaries/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ace2f0e4-41de-43a3-8d7c-00f93ed5a30c.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b7a033efc0ef9fb556d0947dce416e2174094f2.png)
 
 Ellisbeetle Entertainment was
 founded by Sam Cosby in 2008\. In addition to it's international distribution
