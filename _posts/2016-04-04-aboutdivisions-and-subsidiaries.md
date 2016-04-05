@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Ellisbeetle Entertainment was\nfounded by Sam Cosby in 2008. In addition to it's international distribution\nsystem for it's products.\_"
-datePublished: '2016-04-05T16:48:44.645Z'
-dateModified: '2016-04-05T16:48:41.886Z'
+datePublished: '2016-04-05T16:51:49.118Z'
+dateModified: '2016-04-05T16:51:47.264Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-04-aboutdivisions-and-subsidiaries.md
@@ -34,7 +34,7 @@ LLC (subsidiary),
 audiobook and voice over recording; Metal and Wood LLC (subsidiary),
 live event management; 54 Finch, Music Publishing.
 
-Terindo Books | Literary Publishing
+* **Terindo Books | Literary Publishing**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba48daeb-5471-436b-bc03-4ed9f47a4438.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d202d2d6593c23c530ff6893ea99040fd2e2342f.png)
 
