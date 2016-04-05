@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-05T16:01:29.694Z'
-dateModified: '2016-04-05T16:01:23.274Z'
+datePublished: '2016-04-05T16:02:17.120Z'
+dateModified: '2016-04-05T16:02:06.911Z'
 title: About/Divisions and Subsidiaries
 author: []
 sourcePath: _posts/2016-04-04-aboutdivisions-and-subsidiaries.md
@@ -22,8 +22,9 @@ url: aboutdivisions-and-subsidiaries/index.html
 _type: WebPage
 
 ---
-About/Divisions and Subsidiaries
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28c88098-8928-45da-abb4-b062d0258462.png)
+
+About/Divisions and Subsidiaries
 
 Ellisbeetle Entertainment was
 founded by Sam Cosby in 2008\. In addition to it's international distribution
