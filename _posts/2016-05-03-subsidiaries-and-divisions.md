@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Subsidiaries and Divisions
-datePublished: '2016-05-03T20:51:11.737Z'
-dateModified: '2016-05-03T20:50:26.288Z'
+datePublished: '2016-05-03T20:52:18.930Z'
+dateModified: '2016-05-03T20:52:14.914Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-03-subsidiaries-and-divisions.md
 published: true
 authors: []
@@ -23,4 +25,4 @@ _type: Article
 
 ---
 Subsidiaries and Divisions
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3418d2a3-9aab-48cd-9857-cc5259bbaf1a.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4d1d415f749411f5c8c3727a37a101c7256b21a.png)
