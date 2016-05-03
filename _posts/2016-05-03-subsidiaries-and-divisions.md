@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Subsidiaries and Divisions
-datePublished: '2016-05-03T20:43:46.958Z'
-dateModified: '2016-05-03T20:43:26.351Z'
+datePublished: '2016-05-03T20:45:45.308Z'
+dateModified: '2016-05-03T20:45:34.415Z'
 title: ''
 author: []
 authors: []
@@ -17,7 +17,7 @@ publisher:
   favicon: null
 sourcePath: _posts/2016-05-03-subsidiaries-and-divisions.md
 published: true
-starred: true
+starred: false
 url: subsidiaries-and-divisions/index.html
 _type: Article
 
