@@ -4,8 +4,15 @@
         <description><![CDATA[ellisbeetle.com]]></description>
         <link>https://thegrid.ai/ellisbeetle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 20:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 20:43:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ellisbeetle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>About 2</p>]]></description>
+            <link>https://thegrid.ai/ellisbeetle/about-2/index.html</link>
+            <guid isPermaLink="false">dfca285b-ec36-4aba-8ea4-c5d8ca47f92a</guid>
+            <pubDate>Tue, 03 May 2016 20:43:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b436ffae-208a-45f8-9e9a-b5c62bfb3e52.png" alt="" title="">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/ellisbeetle/subsidiaries-and-divisions/index.html</link>
             <guid isPermaLink="false">4cac7bfd-c9fe-4f05-9fb1-8556a0d23413</guid>
             <pubDate>Tue, 03 May 2016 20:42:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>About 2</p>]]></description>
-            <link>https://thegrid.ai/ellisbeetle/about-2/index.html</link>
-            <guid isPermaLink="false">dfca285b-ec36-4aba-8ea4-c5d8ca47f92a</guid>
-            <pubDate>Tue, 03 May 2016 20:40:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
