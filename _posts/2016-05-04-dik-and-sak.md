@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Dik and Sak
-datePublished: '2016-05-04T18:08:11.782Z'
-dateModified: '2016-05-04T18:08:08.318Z'
+datePublished: '2016-05-04T18:10:59.158Z'
+dateModified: '2016-05-04T18:10:55.241Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-dik-and-sak.md
@@ -22,6 +22,7 @@ _type: WebPage
 
 ---
 **Dik and Sak**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d85174f0-39b3-4903-8fa6-982d2cb3c3a8.png)
 
 ****
 
@@ -30,4 +31,3 @@ Dik N Sak is a comedy that is all about male, female, and other genders gentles.
 Whether it's Dik being extinguished upon commandment or Sak supplying the most succulent indulgence, you will always find yourself more pleasured than when we began.
 
 If you are in the mood, feel free to graze your pastures as we plunge into this journey.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d85174f0-39b3-4903-8fa6-982d2cb3c3a8.png)
