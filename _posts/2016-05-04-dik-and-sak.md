@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Dik and Sak
-datePublished: '2016-05-04T18:10:59.158Z'
-dateModified: '2016-05-04T18:10:55.241Z'
+datePublished: '2016-05-04T18:11:11.168Z'
+dateModified: '2016-05-04T18:11:08.197Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-dik-and-sak.md
@@ -21,8 +21,9 @@ url: dik-and-sak/index.html
 _type: WebPage
 
 ---
-**Dik and Sak**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d85174f0-39b3-4903-8fa6-982d2cb3c3a8.png)
+
+**Dik and Sak**
 
 ****
 
