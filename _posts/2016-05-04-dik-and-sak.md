@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Dik and Sak
-datePublished: '2016-05-04T18:05:03.949Z'
-dateModified: '2016-05-04T18:04:37.809Z'
+datePublished: '2016-05-04T18:06:21.485Z'
+dateModified: '2016-05-04T18:05:31.964Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-dik-and-sak.md
@@ -18,7 +18,7 @@ publisher:
   favicon: null
 starred: false
 url: dik-and-sak/index.html
-_type: Article
+_type: WebPage
 
 ---
 **Dik and Sak**
