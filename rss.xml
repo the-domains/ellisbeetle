@@ -4,7 +4,7 @@
         <description><![CDATA[ellisbeetle.com]]></description>
         <link>https://thegrid.ai/ellisbeetle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 15:40:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 15:42:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ellisbeetle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ellisbeetle/798e3bd8-56b6-4bc2-b336-8907485c73b7/index.html</link>
             <guid isPermaLink="false">798e3bd8-56b6-4bc2-b336-8907485c73b7</guid>
             <pubDate>Wed, 04 May 2016 15:33:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99ee87f7-28d9-489d-a518-87d5aa6523b0.png">]]></description>
+            <link>https://thegrid.ai/ellisbeetle/about-2/index.html</link>
+            <guid isPermaLink="false">dfca285b-ec36-4aba-8ea4-c5d8ca47f92a</guid>
+            <pubDate>Wed, 04 May 2016 15:42:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/ellisbeetle/projects/index.html</link>
             <guid isPermaLink="false">cd188ca9-06cb-4a08-b21b-8a65eeff4958</guid>
             <pubDate>Wed, 04 May 2016 15:37:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99ee87f7-28d9-489d-a518-87d5aa6523b0.png">]]></description>
-            <link>https://thegrid.ai/ellisbeetle/about-2/index.html</link>
-            <guid isPermaLink="false">dfca285b-ec36-4aba-8ea4-c5d8ca47f92a</guid>
-            <pubDate>Wed, 04 May 2016 15:35:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
