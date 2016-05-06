@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Ellisbeetle Entertainment was founded by Sam Cosby in 2008. In addition to it's international distribution system for it's products. "
-datePublished: '2016-05-06T15:15:25.312Z'
-dateModified: '2016-05-06T15:15:02.557Z'
+datePublished: '2016-05-06T15:27:15.127Z'
+dateModified: '2016-05-06T15:15:59.765Z'
 title: ''
 author:
   - name: ''
@@ -30,7 +30,7 @@ Ellisbeetle Entertainment was founded by Sam Cosby in 2008\. In addition to it's
 **Terindo Books | **SC**| **Novels | Short Stories | Comic Books
 
 **Nahala Music |** Composition Music recording (various styles)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ba98c91-4458-4672-8e54-58fb572d0682.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d83fd1e59c932ff854fc02199af73a7f811dedc5.png)
 
 **54 Finch |**SC|Music Publishing
 
