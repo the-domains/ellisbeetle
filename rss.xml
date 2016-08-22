@@ -4,7 +4,7 @@
         <description><![CDATA[ellisbeetle.com]]></description>
         <link>https://thegrid.ai/ellisbeetle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 14:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 14:45:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ellisbeetle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/ellisbeetle/terindo-books/index.html</link>
             <guid isPermaLink="false">e1ed1a05-ed3b-4e59-892b-8090883fbb10</guid>
             <pubDate>Fri, 06 May 2016 15:28:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4d1d415f749411f5c8c3727a37a101c7256b21a.png" alt="" title="">]]></description>
-            <link>https://thegrid.ai/ellisbeetle/subsidiaries-and-divisions/index.html</link>
-            <guid isPermaLink="false">4cac7bfd-c9fe-4f05-9fb1-8556a0d23413</guid>
-            <pubDate>Wed, 04 May 2016 18:09:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
