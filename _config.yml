@@ -28,9 +28,6 @@ navigation:
   - name: About
     url: 'http://ellisbeetle.com/about'
     type: external
-  - name: About Sample
-    id: dfca285b-ec36-4aba-8ea4-c5d8ca47f92a
-    type: content
 favicon: null
 title: ellisbeetle.com
 purpose: []
