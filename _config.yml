@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Cerukins
-    id: cd35c0f7-cb90-4a0a-9f6c-eec41be1c181
-    type: content
   - name: Ceruladons
     id: cd188ca9-06cb-4a08-b21b-8a65eeff4958
     type: content
