@@ -25,6 +25,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: Home
+    id: 798e3bd8-56b6-4bc2-b336-8907485c73b7
+    type: content
   - name: About
     url: 'http://ellisbeetle.com/about'
     type: external
@@ -36,9 +39,6 @@ navigation:
     type: content
   - name: Ceruladons
     id: cd188ca9-06cb-4a08-b21b-8a65eeff4958
-    type: content
-  - name: Home
-    id: 798e3bd8-56b6-4bc2-b336-8907485c73b7
     type: content
 favicon: null
 title: ellisbeetle.com
