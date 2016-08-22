@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Ceruladons
-    id: cd188ca9-06cb-4a08-b21b-8a65eeff4958
-    type: content
 favicon: null
 title: ellisbeetle.com
 purpose: []
