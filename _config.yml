@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: About
-    url: 'http://ellisbeetle.com/about'
-    type: external
   - name: Dik and Sak
     id: 15757d29-a9cc-4318-ac10-8ef9055cf826
     type: content
