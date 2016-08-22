@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Dik and Sak
-    id: 15757d29-a9cc-4318-ac10-8ef9055cf826
-    type: content
   - name: Cerukins
     id: cd35c0f7-cb90-4a0a-9f6c-eec41be1c181
     type: content
