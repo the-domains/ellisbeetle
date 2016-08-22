@@ -1,20 +1,4 @@
-name: Ellisbeetle Entertainment LLC
-favicon: null
-layout_spectrum: 0.24864
 typography_spectrum: 1
-title: ellisbeetle.com
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e0e9ee'
@@ -26,4 +10,24 @@ color:
   lightness: 0.5
   saturation: 1
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24864
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Ellisbeetle Entertainment LLC
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About
+    url: 'http://ellisbeetle.com/about'
+    type: external
+favicon: null
+title: ellisbeetle.com
 purpose: []
