@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Home
-    id: 798e3bd8-56b6-4bc2-b336-8907485c73b7
-    type: content
   - name: About
     url: 'http://ellisbeetle.com/about'
     type: external
