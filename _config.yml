@@ -1,4 +1,3 @@
-layout_spectrum: 0.4225293172057718
 typography_spectrum: 0.07534076902084053
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.4225293172057718
 analytics:
   google: null
   facebook: null
@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Home
+    id: 798e3bd8-56b6-4bc2-b336-8907485c73b7
+    type: content
 favicon: null
 title: ellisbeetle.com
 purpose: []
