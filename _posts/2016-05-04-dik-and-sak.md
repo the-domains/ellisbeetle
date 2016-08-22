@@ -5,17 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Dik and Sak
-datePublished: '2016-05-04T18:14:44.202Z'
-dateModified: '2016-05-04T18:12:56.800Z'
+datePublished: '2016-08-22T00:50:01.995Z'
+dateModified: '2016-08-22T00:50:01.610Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-dik-and-sak.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
 starred: true
 url: dik-and-sak/index.html
 _type: WebPage
